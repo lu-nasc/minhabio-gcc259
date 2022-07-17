@@ -1,10 +1,10 @@
 # Portifólio 📝
 
 ## ***Lucas Hideki S. N.***
-### *24 anos, Estudante e Desenvolvedor de software da Fundecc.*
+### *25 anos, Estudante e Desenvolvedor de software da Fundecc.*
 ---
 
-## *Interesses:*
+## *Interesses nos assuntos:*
 * *Desgin de linguagens de programação.*
 * *Ferramentas de desenvolvimento ergonomicas.*
 * *Softwares livres/abertos e empoderadores.*
@@ -15,8 +15,12 @@
 ## *Ferramentas de interesse:*
 * ### [*Rust*](https://www.rust-lang.org/) 🦀
 * ### [*Pony*](https://www.ponylang.io/) 🐴
+* ### [*OCaml*](https://ocaml.org/) 🐫
+* ### [*Deno*](https://deno.land/) 🦕
 * ### [*Scala*](https://scala-lang.org/)
-* ### [*OCaml*](https://ocaml.org/)
 * ### [*Grain*](https://grain-lang.org/)
 * ### [*WebAssembly*](https://webassembly.org/)
 * ### [*Processing/P5.js*](https://processing.org/)
+
+## Atualmente usando a distribuição Linux
+## ![Manjaro](https://wiki.manjaro.org/images/1/18/Block-logo.png)
