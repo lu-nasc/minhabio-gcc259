@@ -38,7 +38,6 @@
 
 * [*Painel sobre Elixir na Educação*](https://www.youtube.com/watch?v=neLUQod8FQ0)
 
-* [*XPLOIT: Internet Sob Ataque - Playlist*](https://www.youtube.com/watch?v=A4_gJm0UmRA&list=PLXS02vxHRP014eRjSEWwLXDgOvhnZqtlp)
 
 
 ## Indicações de podcasts
@@ -46,6 +45,8 @@
 * ### [*Panela de Impressão*](https://podtail.com/pt-BR/podcast/panela-de-impressao/)
 * ### [*Holodec Design - Regras do Jogo*](https://www.holodeckdesign.com.br/category/podcast/)
 
-Indicações de filmes
+## Indicações de filmes e séries
 * ### [*Freenet*](https://libreflix.org/i/freenet)
 * ### [*O Menino da Internet - A história de Aaron Swartz*](https://libreflix.org/i/the-internets-own-boy)
+
+* ### [*XPLOIT: Internet Sob Ataque - Playlist*](https://www.youtube.com/watch?v=A4_gJm0UmRA&list=PLXS02vxHRP014eRjSEWwLXDgOvhnZqtlp)
